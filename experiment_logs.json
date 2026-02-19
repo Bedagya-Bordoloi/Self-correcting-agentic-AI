@@ -1,0 +1,37 @@
+[
+    {
+        "step": 1,
+        "attempt": 1,
+        "epsilon": 1.0,
+        "error_type": "rate_limit",
+        "duration": 0.7238774299621582
+    },
+    {
+        "step": 2,
+        "attempt": 2,
+        "epsilon": 1.0,
+        "error_type": "rate_limit",
+        "duration": 0.8190586566925049
+    },
+    {
+        "step": 3,
+        "attempt": 3,
+        "epsilon": 1.0,
+        "error_type": "rate_limit",
+        "duration": 0.726341962814331
+    },
+    {
+        "step": 4,
+        "attempt": 4,
+        "epsilon": 1.0,
+        "error_type": "rate_limit",
+        "duration": 0.6733083724975586
+    },
+    {
+        "step": 5,
+        "attempt": 5,
+        "epsilon": 1.0,
+        "error_type": "rate_limit",
+        "duration": 0.9499073028564453
+    }
+]
